@@ -12,6 +12,9 @@ Email: ahsu016@csu.fullerton.edu
 Mark Raden
 Email: mraden@csu.fullerton.edu
 
+Kiet Nguyen
+Email: kylekiet@csu.fullerton.edu
+
 (Add name and email address)
 
 ## Programming Language(s)
