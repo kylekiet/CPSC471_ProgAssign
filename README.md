@@ -9,6 +9,9 @@ Email: anthonyortiz7575@csu.fullerton.edu
 Audrey Hsu <br>
 Email: ahsu016@csu.fullerton.edu
 
+Mark Raden
+Email: mraden@csu.fullerton.edu
+
 (Add name and email address)
 
 ## Programming Language(s)
